@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\bin\Debug\net7.0\RemoteControllerApi.Application.deps.json
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\bin\Debug\net7.0\RemoteControllerApi.Application.dll
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\bin\Debug\net7.0\RemoteControllerApi.Application.pdb
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\bin\Debug\net7.0\RemoteControllerApi.Domain.dll
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\bin\Debug\net7.0\RemoteControllerApi.Domain.pdb
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\RemoteControllerApi.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\RemoteControllerApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\RemoteControllerApi.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\RemoteControllerApi.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\RemoteControllerApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\RemoteControllerApi.Application.csproj.CopyComplete
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\RemoteControllerApi.Application.dll
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\refint\RemoteControllerApi.Application.dll
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\RemoteControllerApi.Application.pdb
+C:\Users\User\Desktop\Remote Controller\RemoteControllerApi\RemoteControllerApi.Application\obj\Debug\net7.0\ref\RemoteControllerApi.Application.dll

@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\bin\Debug\net7.0\RemoteController.Infrastructure.deps.json
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\bin\Debug\net7.0\RemoteController.Infrastructure.dll
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\bin\Debug\net7.0\RemoteController.Infrastructure.pdb
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\bin\Debug\net7.0\RemoteController.Domain.dll
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\bin\Debug\net7.0\RemoteController.Domain.pdb
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\RemoteController.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\RemoteController.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\RemoteController.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\RemoteController.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\RemoteController.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\RemoteController.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\RemoteController.Infrastructure.dll
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\refint\RemoteController.Infrastructure.dll
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\RemoteController.Infrastructure.pdb
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\obj\Debug\net7.0\ref\RemoteController.Infrastructure.dll
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\bin\Debug\net7.0\RemoteController.Application.dll
+C:\Users\User\Desktop\Remote Controller\RemoteController\RemoteController.Infrastructure\bin\Debug\net7.0\RemoteController.Application.pdb

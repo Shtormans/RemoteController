@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\bin\Debug\net7.0\RemoteController.Domain.deps.json
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\bin\Debug\net7.0\RemoteController.Domain.dll
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\bin\Debug\net7.0\RemoteController.Domain.pdb
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\obj\Debug\net7.0\RemoteController.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\obj\Debug\net7.0\RemoteController.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\obj\Debug\net7.0\RemoteController.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\obj\Debug\net7.0\RemoteController.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\obj\Debug\net7.0\RemoteController.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\obj\Debug\net7.0\RemoteController.Domain.dll
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\obj\Debug\net7.0\refint\RemoteController.Domain.dll
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\obj\Debug\net7.0\RemoteController.Domain.pdb
+C:\Users\User\Desktop\Remote Controller\RemoteController\Domain\obj\Debug\net7.0\ref\RemoteController.Domain.dll
